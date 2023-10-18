@@ -29,3 +29,14 @@ Credits:
 		jQuery (jquery.com)
 		Poptrox (github.com/ajlkn/jquery.poptrox)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+		
+		
+Dev Notes:
+		
+1. Add individual gallery for each thumb, per piece
+	Else, add detail shots in sequence
+2. Update about text
+3. Adjust design to highlight only Instagram social
+4. Image header text only, no p description, and only on main piece thumbs
+5. Delete form, save for potential use later
+6. favicon
